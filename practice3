@@ -1,0 +1,26 @@
+print(1+1)  # 2
+print(3-2)  # 1
+
+
+print(3/2)  # 1.5 나누기
+print(3**2)  # 9 제곱
+
+print(5%3)  # 2 나머지
+print(5//3)  # 1 몫
+
+print(10>4) # True
+print(10<=4) # False
+print(not (10<=4)) # Ture
+
+print(3==3) # True == 앞뒤가 같다
+print(3+4 == 7) # Ture
+
+print(3!=3) # False != 앞뒤가 같지 않다.
+
+print((3>0) and (3<10)) # Ture
+print((3>0) & (3<10)) # True / and == &
+
+print((3>0) or (3<1)) # True / or 둘중한 항 모두 참일경우
+print((3>0) | (3<1)) # or == |
+
+print(5>4>3) # 연속된 항도 사용가능
